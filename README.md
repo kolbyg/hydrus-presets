@@ -10,6 +10,6 @@ Downloaders I will likely make in the near-ish future:
 Completed Downloaders:
 
 
-Tiktok - You must go to tiktok.com in your browser, then export the cookies and import them into Hydrus. This extension can make the process easy: https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid
+Tiktok - You must go to tiktok.com in your browser, then export the cookies and import them into Hydrus. You do not need to login, this is only to skip past the browser verification. This extension can make the process easy: https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid
 
-Instagram - Currently unworking due to the change that broke every other Instagram downloader
+Instagram - Currently unworking due to the change that broke every other Instagram downloader, login required, sign in to Instagram.com and use this extension to export cookies: https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid
