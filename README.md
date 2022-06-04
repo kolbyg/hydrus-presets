@@ -1,5 +1,5 @@
 # Hydrus Presets
-These downloaders expect that you have a basic knowledge of the Hydrus Downloader system. More info can be found here: https://hydrusnetwork.github.io/hydrus/getting_started_downloading.html#logins
+These downloaders expect that you have a basic knowledge of the Hydrus Downloader system. More info can be found here: https://hydrusnetwork.github.io/hydrus/getting_started_downloading.html
 
 Import these by going to network > downloaders > import downloaders, then either dragging the png onto the screen or clicking to open a file browser.
 
