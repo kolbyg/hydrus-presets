@@ -14,6 +14,7 @@ Completed Downloaders:
 Tiktok - You must go to tiktok.com in your browser, then export the cookies and import them into Hydrus. You do not need to login, this is only to skip past the browser verification. This extension can make the process easy: https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid
 
 Instagram - Login required, sign in to Instagram.com and use this extension to export cookies: https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid
+
 NOTE: Due to recent changes in the Instagram API, and the lack of support for B64 decode in Hydrus, a local webserver is currently required to translate some URLs.
 This works fine and doesnt affect the scraping at all, but you need the local infrastrucutre to run a python script that will translate the URLs for you.
 I may eventually put this up publicly, as it's a fairly simple script, but for now you're on your own.
