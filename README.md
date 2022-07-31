@@ -8,15 +8,17 @@ Downloaders I will likely make in the near-ish future:
 - IMDb - Done, need to test and then upload.
 
 
-Completed Downloaders:
+##Completed Downloaders
 
-
-Tiktok - CURENTLY BROKEN - You must go to tiktok.com in your browser, then export the cookies and import them into Hydrus. You do not need to login, this is only to skip past the browser verification. This extension can make the process easy: https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid
+###Tiktok
+**CURENTLY BROKEN**
+You must go to tiktok.com in your browser, then export the cookies and import them into Hydrus. You do not need to login, this is only to skip past the browser verification. This extension can make the process easy: https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid
 
 This scraper is currently broken with the rest of the TT scrapers due to recent API/Header changes. I'll update it once someone figures out what needs to change.
 
 
-Instagram - Login required, sign in to Instagram.com and use this extension to export cookies: https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid
+###Instagram
+Login required, sign in to Instagram.com and use this extension to export cookies: https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid
 
 NOTE: Due to recent changes in the Instagram API, and the lack of support for B64 decode in Hydrus, a local webserver is currently required to translate some URLs.
 This works fine and doesnt affect the scraping at all, but you need the local infrastrucutre to run a python script that will translate the URLs for you.
