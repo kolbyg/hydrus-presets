@@ -11,7 +11,7 @@ Downloaders I will likely make in the near-ish future:
 Completed Downloaders:
 
 
-CURENTLY BROKEN - Tiktok - You must go to tiktok.com in your browser, then export the cookies and import them into Hydrus. You do not need to login, this is only to skip past the browser verification. This extension can make the process easy: https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid
+Tiktok - CURENTLY BROKEN - You must go to tiktok.com in your browser, then export the cookies and import them into Hydrus. You do not need to login, this is only to skip past the browser verification. This extension can make the process easy: https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid
 
 This scraper is currently broken with the rest of the TT scrapers due to recent API/Header changes. I'll update it once someone figures out what needs to change.
 
